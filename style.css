@@ -1,0 +1,53 @@
+.opening {
+  background-color: black;
+  background-image: url(img/bg.png);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  align: center;
+}
+
+h1 {
+  font-size: 4vmax;
+  line-height: 1.2em;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+  margin: auto;
+}
+
+h3 {
+  font-size: 1.5vmax;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.8);
+  margin: auto;
+}
+
+.link {
+  color: white;
+  font-size: 1vmax;
+}
+
+/*
+h2 {
+  font-size: 1.8vmax;
+}
+*/
+
+img {
+  width: 15vmax;
+  margin-top: 100px;
+}
+
+#galery {
+  background-color: #64b0bf;
+}
+
+.title {
+  font-size: 0.8vmax;
+}
+
+.fsabout {
+  font-size: 1.5vmax;
+}
